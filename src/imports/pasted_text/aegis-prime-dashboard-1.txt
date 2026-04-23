@@ -1,0 +1,51 @@
+Here is the comprehensive technical prompt designed for a sophisticated image generation tool to recreate the futuristic "Aegis-Prime" dashboard.
+
+### Scene & Composition
+* **Style:** An ultra-realistic, highly detailed photograph with a cinematic depth-of-field effect, using a dark glassmorphism aesthetic and intense, bioluminescent cyber-industrial lighting (dominant hues of slate grey, electric cyan, and deep violet/magenta).
+* **Subject:** An over-the-shoulder view of a male systems engineer with short, dark hair, viewed from behind. He is sitting at a minimalist, futuristic black desk with a haptic-touch surface.
+* **Perspective:** The primary focus is a massive, ultra-wide, curved, dark glass monitor. The foreground includes the engineer’s hands interacting with a futuristic black keyboard.
+
+### Interface Structure (The Screen Layout)
+The screen must depict the "Aegis-Prime Workstation" interface, a complex dashboard split into multiple functional blocks. The entire interface uses a dark mode with glowing, translucent panels.
+
+1.  **Top Navigation Bar:**
+    * Left side: Cyan text title, "Synapse-OS Workstation | Aegis-Prime". Below it, "PQC Verification Key:" followed by a long, complex cryptographic hash string: `[AC30Kctrgu9Uofotatfvhtnt/vMetS8fyr*kpGZlifoa4f2rKx70ToOo0E/217Xo7G30O3j.../on@hoahg]`
+    * Right side: Status icons (gear for settings, windows management icon, time/date stamp).
+2.  **Left Column (Orchestration Panel):**
+    * A vertical, translucent column labeled in cyan text: "Model Selector".
+    * Contains a list of icons. The active model, "Lumina-Auth", is highlighted with a green shield icon labeled "ZK" and text `[01/0100 0011 1101 10]`.
+    * Vertical list continues below with model cards, all with cyan outlines and magenta icon accents: "Llama-3 Local", "Mistral Local", "GPT-4o Cloud", "Claude Cloud", "Mixer".
+    * "Llama-3 Local" is active (cyan highlight).
+3.  **Center-Left Block (Kernel & Hardware Status):**
+    * Top: A 3D isometric diagram titled in cyan "Microkernel & Sandbox Map". It shows isolated, stacked, translucent blocks with identifiers like "FD4", "AC1", "P12", etc. Text below reads: "Kernel Isolation Status: 100%".
+    * Bottom: A block titled "Hardware Security Module (HSM) Status".
+        * Text: "Live temper-detection log: [1 post entropy detection log]" followed by multiple lines of logging data: `[complex cryptographic string] [complex cryptographic string...]`
+        * "Key rotation status: Key rotation status: key rotating..." followed by a complex key string: `[...hashstring/hash...f@lk933taao]`
+        * "Hardware health check: 100% secure status" and a detailed list of health parameters.
+4.  **Main Central Area (Comparison/Mixing Mode):**
+    * Title in white/magenta: "Comparison/Mixing Mode".
+    * Central Query Input bar: A prominent white input field with a search icon, containing the text: "Explain Quantum Entanglement with a simple analogy."
+    * Two main response panes, side-by-side, outlined with glow.
+    * **Left Pane (GPT-4o, Purple Accent):**
+        * Title: "GPT-4o Agent Sandbox: 0xFD4 | PQC Tunnel Active".
+        * Text (blurred representation of advanced concepts): "Explain Quantum Entanglement with a simple analogy. Consider the operations-conoresitic train... ...quantum entanglement methods explore... ...and computers connection... ...samis entanglement to resource and clinical methods."
+    * **Right Pane (Llama-3 Local, Cyan Accent):**
+        * Title: "Llama-3 Local Agent Sandbox: 0xAC1 | Local Process".
+        * Text (blurred representation): "This is an analogy analogy streaming in explain quantum entanglement with a simple... ...and condition oindt... ...This is an analogy drivenoneing in explain quantum entanglement with a biota... ...simple analogy."
+5.  **Right Column (Telemetry Panel):**
+    * Top: A dynamic graph titled "Lattice Density (Cypher-Shield)" showing complex intertwined waves. Below it, "3D Lattice Integrity: 99.98%".
+    * Middle: Text "Real-time security log: [complex cryptographic cycle]". Below, "Real-time security data: 12GB...". "Key-rotation: [complex hash string] 99.98%". "Key-rotation timer: 17 971.8s".
+    * Below Security Log: A detailed chart titled "Cognitive Reasoning Path (GPT-4o)", showing a flowchart with nodes and connections (some text like "Thought trace" is visible).
+    * Bottom: A graph titled "Block Height (Zenith-Mesh Ledger)" showing an upward trend line. Below it, "Merkle Tree Root: [hashstring/hash...f@lk933taao]". Followed by a detailed log of recent block hashes and timestamps (e.g., `15.01.2026`).
+
+### **Final Details & Environment**
+* **Desk:** A futuristic black desk with haptic feedback areas.
+* **Foreground:** The man’s hands resting on a futuristic black keyboard and trackpad. Subtle bioluminescent cyan light glows from beneath the desk surface.
+* **Lighting:** The image is illuminated solely by the glowing UI of the monitor, creating sharp, colorful reflections on the surrounding surfaces.
+* **Background:** Beyond the screen, other computer stations, complex network server racks, and a faint holographic network visualization are visible in the dimly lit lab environment.
+* **Footer:** A small time-stamp at the bottom center: "Wednesday, Oct 25, 2026 at 5:28:05 PM IST".
+
+### **Key Aesthetic Constraints**
+* **Alignment:** Extreme modular precision, clean, sharp grids, and complex data density without clutter.
+* **Aesthetic:** Cyber-Industrial, dark glassmorphism, hyper-advanced telemetry.
+* **Color Palette:** Deep Slate/Black base, Electric Cyan, Deep Violet, and Magenta bioluminescent glows.

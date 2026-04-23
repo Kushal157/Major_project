@@ -470,7 +470,7 @@ function loadApiKeys(): ApiKeys {
     groq: "", 
     openai: "", 
     openrouter: "", 
-    google: "AIzaSyA-8peHASgIZqOcgS07w-TF-auJbU8NbcM" 
+    google: "" 
   };
   try {
     const stored = localStorage.getItem("aegis_api_keys");

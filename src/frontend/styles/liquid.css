@@ -251,5 +251,163 @@
 }
 
 /* ════════════════════════════════════════════════════════════════════════
-   LIGHT MODE OVERRIDES  ·  Removed to use Navy Glass theme
+   LIGHT MODE OVERRIDES  ·  Warm Cream / Vintage Paper
    ════════════════════════════════════════════════════════════════════════ */
+
+.light-mode .lg {
+  background: linear-gradient(
+    160deg,
+    rgba(255, 250, 240, 0.92) 0%,
+    rgba(245, 235, 215, 0.85) 60%,
+    rgba(235, 225, 205, 0.78) 100%
+  );
+  border: 1px solid rgba(180, 160, 120, 0.3);
+  box-shadow:
+    0 4px 16px rgba(120, 90, 40, 0.08),
+    0 1px 4px rgba(120, 90, 40, 0.06),
+    inset 0 1.5px 0 rgba(255, 255, 255, 0.7),
+    inset 0 -1px 0 rgba(180, 160, 120, 0.12);
+  backdrop-filter: blur(12px);
+}
+
+.light-mode .lg::before {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.65),
+    rgba(255, 255, 255, 0.9),
+    rgba(255, 255, 255, 0.65),
+    transparent
+  );
+}
+
+.light-mode .lg::after {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.35) 0%,
+    transparent 100%
+  );
+}
+
+.light-mode .lg-hover:hover {
+  box-shadow:
+    0 8px 28px rgba(120, 90, 40, 0.12),
+    0 2px 8px rgba(120, 90, 40, 0.08),
+    inset 0 1.5px 0 rgba(255, 255, 255, 0.8),
+    inset 0 -1px 0 rgba(180, 160, 120, 0.1);
+  transform: translateY(-2px);
+}
+
+.light-mode .lg-cyan {
+  border-color: rgba(90, 122, 72, 0.4);
+  box-shadow:
+    0 4px 16px rgba(120, 90, 40, 0.08),
+    0 0 12px rgba(90, 122, 72, 0.08),
+    inset 0 1.5px 0 rgba(255, 255, 255, 0.7),
+    inset 0 0 10px rgba(90, 122, 72, 0.04),
+    inset 0 -1px 0 rgba(180, 160, 120, 0.1);
+}
+
+.light-mode .lg-pink {
+  border-color: rgba(160, 64, 64, 0.35);
+  box-shadow:
+    0 4px 16px rgba(120, 90, 40, 0.08),
+    0 0 12px rgba(160, 64, 64, 0.08),
+    inset 0 1.5px 0 rgba(255, 255, 255, 0.7),
+    inset 0 0 10px rgba(160, 64, 64, 0.04),
+    inset 0 -1px 0 rgba(180, 160, 120, 0.1);
+}
+
+.light-mode .lg-gold {
+  border-color: rgba(139, 105, 20, 0.4);
+  box-shadow:
+    0 4px 16px rgba(120, 90, 40, 0.1),
+    0 0 12px rgba(139, 105, 20, 0.08),
+    inset 0 1.5px 0 rgba(255, 255, 255, 0.7),
+    inset 0 0 10px rgba(139, 105, 20, 0.04),
+    inset 0 -1px 0 rgba(180, 160, 120, 0.1);
+}
+
+.light-mode .lg-green {
+  border-color: rgba(90, 122, 72, 0.4);
+  box-shadow:
+    0 4px 16px rgba(120, 90, 40, 0.08),
+    0 0 12px rgba(90, 122, 72, 0.1),
+    inset 0 1.5px 0 rgba(255, 255, 255, 0.7),
+    inset 0 0 10px rgba(90, 122, 72, 0.04),
+    inset 0 -1px 0 rgba(180, 160, 120, 0.1);
+}
+
+.light-mode .lg-dynamic {
+  border-color: rgba(139, 105, 20, 0.35);
+  box-shadow:
+    0 4px 16px rgba(120, 90, 40, 0.08),
+    inset 0 1.5px 0 rgba(255, 255, 255, 0.7),
+    inset 0 -1px 0 rgba(180, 160, 120, 0.1);
+}
+
+.light-mode .lg-rest {
+  background: linear-gradient(
+    160deg,
+    rgba(255, 250, 240, 0.88) 0%,
+    rgba(245, 235, 215, 0.75) 100%
+  );
+  border-color: rgba(180, 160, 120, 0.22);
+  box-shadow:
+    0 2px 8px rgba(120, 90, 40, 0.06),
+    0 1px 3px rgba(120, 90, 40, 0.04),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6),
+    inset 0 -1px 0 rgba(180, 160, 120, 0.08);
+}
+
+.light-mode .lg-input {
+  background: linear-gradient(
+    160deg,
+    rgba(255, 252, 245, 0.95) 0%,
+    rgba(248, 242, 228, 0.88) 100%
+  );
+  border: 1px solid rgba(180, 160, 120, 0.25);
+  box-shadow:
+    0 3px 12px rgba(120, 90, 40, 0.06),
+    inset 0 1.5px 0 rgba(255, 255, 255, 0.7),
+    inset 0 -1px 0 rgba(180, 160, 120, 0.08);
+  backdrop-filter: blur(8px);
+}
+
+.light-mode .lg-input:focus-within {
+  border-color: rgba(139, 105, 20, 0.45);
+  box-shadow:
+    0 3px 12px rgba(120, 90, 40, 0.08),
+    0 0 12px rgba(139, 105, 20, 0.08),
+    inset 0 1.5px 0 rgba(255, 255, 255, 0.7),
+    inset 0 -1px 0 rgba(180, 160, 120, 0.08);
+}
+
+.light-mode .lg-panel {
+  background: linear-gradient(
+    165deg,
+    rgba(255, 250, 240, 0.92) 0%,
+    rgba(248, 242, 228, 0.88) 50%,
+    rgba(242, 235, 218, 0.82) 100%
+  );
+  border: 1px solid rgba(180, 160, 120, 0.28);
+  box-shadow:
+    0 4px 16px rgba(120, 90, 40, 0.07),
+    0 1px 4px rgba(120, 90, 40, 0.05),
+    inset 0 1.5px 0 rgba(255, 255, 255, 0.7),
+    inset 0 -1px 0 rgba(180, 160, 120, 0.1);
+  backdrop-filter: blur(8px);
+}
+
+.light-mode .lg-panel::before {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.7),
+    transparent
+  );
+}
+
+.light-mode .lg-ripple-child {
+  background: rgba(139, 105, 20, 0.18);
+}
